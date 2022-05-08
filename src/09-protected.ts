@@ -40,5 +40,5 @@ export class Dog extends Animal {
 const cheis = new Dog('cheis', 'nico');
 // cheis.name = 'otro nombre';
 cheis.woof(1);
-// cheis.doSomething();
+// cheis.doSomezthing();
 cheis.move();
